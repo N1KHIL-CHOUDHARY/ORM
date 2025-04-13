@@ -53,7 +53,7 @@ class MovieAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](orm-1.png)
+![alt text](orm.png)
 
 
 ## RESULT
